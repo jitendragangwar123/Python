@@ -1,0 +1,10 @@
+lan="jeetu"
+print(lan[0])
+print(lan[-2 : 5])
+print(lan[ : :-1])
+print(lan[0: :2])
+print(lan[0: :])
+print(lan[0])
+print(lan[-1: :-1])
+name=input("whats your name: ")
+print(f" reverse of my name {name[ : :-1]}")
